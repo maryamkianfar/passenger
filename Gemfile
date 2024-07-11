@@ -23,3 +23,4 @@ group :development do
   gem 'gpgme'
 end
 end
+
